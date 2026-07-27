@@ -1,10 +1,10 @@
 import streamlit as st
 import pandas as pd
 import pickle
-with open("C:/Users/Selva.M/Downloads/data_science/mini_projects/project_3/best_model.pkl","rb") as f:
+with open("best_model.pkl","rb") as f:
     model = pickle.load(f)
 
-with open("C:/Users/Selva.M/Downloads/data_science/mini_projects/project_3/preprocessing.pkl","rb") as f:
+with open("preprocessing.pkl","rb") as f:
     preprocessing = pickle.load(f)
 
 # Set the page config
@@ -20,7 +20,7 @@ if menu == "HOME":
     st.markdown("<h2 style='text-align: center;'>EMPLOYEE INSIGHTS DASHBOARD</h2>", unsafe_allow_html=True)
     st.info("VIEW HIGH RISK EMPLOYEES AND IMPORTANT KEY INSIGHTS TO REDUCE ATTRITION RATES")
 
-    df = pd.read_csv("C:/Users/Selva.M/Downloads/data_science/mini_projects/project_3/cleaned_dataset.csv")
+    df = pd.read_csv("cleaned_dataset.csv")
     col1, col2, col3 = st.columns(3)
 
     with col1:
