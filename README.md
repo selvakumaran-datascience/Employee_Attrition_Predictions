@@ -163,9 +163,9 @@ Work-Life Balance
 Performance Rating
 ## 📸 Application Preview 🏠 Dashboard 📊 Employee Insights 🤖 Prediction Page
 
-<img width="1920" height="3390" alt="screencapture-localhost-8501-2026-07-27-13_53_26" src="https://github.com/user-attachments/assets/1c8b5c65-9ea3-4354-b4ae-52f8cb1515ba" />
 <img width="1920" height="1050" alt="screencapture-localhost-8501-2026-07-27-13_50_17" src="https://github.com/user-attachments/assets/0de0ebd1-b3c6-43df-aef4-7dc85df566ec" />
 
+<img width="1920" height="3390" alt="screencapture-localhost-8501-2026-07-27-13_53_26" src="https://github.com/user-attachments/assets/1c8b5c65-9ea3-4354-b4ae-52f8cb1515ba" />
 
 ## 🚀 Installation
 
