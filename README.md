@@ -19,7 +19,7 @@ Identify high-risk employees.
 Support HR in improving employee retention.
 Provide an interactive dashboard for decision-making.
 ## ✨ Features
-## 🏠 HR Dashboard
+### 🏠 HR Dashboard
 
 ✔ High-Risk Employees
 
@@ -31,7 +31,7 @@ Provide an interactive dashboard for decision-making.
 
 ✔ Interactive Dashboard
 
-## 🤖 Attrition Prediction
+### 🤖 Attrition Prediction
 
 Users can enter employee details such as:
 
@@ -137,7 +137,7 @@ Promotion History
 
 and predicts employee attrition instantly.
 
-📈 Model Features
+## 📈 Model Features
 
 The model uses employee information including:
 
@@ -163,15 +163,15 @@ Work-Life Balance
 Performance Rating
 ## 📸 Application Preview 🏠 Dashboard 📊 Employee Insights 🤖 Prediction Page
 
-🚀 Installation
+## 🚀 Installation
 
 Clone the repository
 
-git clone https://github.com/yourusername/Employee-Attrition-Prediction.git
+git clone https://github.com/selvakumaran-datascience/Employee_Attrition_Predictions.git
 
 Move into the project folder
 
-cd Employee-Attrition-Prediction
+cd Employee_Attrition_Predictions
 
 Install dependencies
 
@@ -180,6 +180,7 @@ pip install -r requirements.txt
 Run the Streamlit application
 
 streamlit run Employee.py
+
 ## 📊 Machine Learning Pipeline
 Raw Dataset
       │
@@ -220,7 +221,7 @@ Identify high-risk employees
 Enhance HR decision-making
 Optimize recruitment costs
 Increase workforce productivity
-🎯 Future Enhancements
+## 🎯 Future Enhancements
 📧 Email Notifications for High-Risk Employees
 📈 Interactive Power BI Dashboard
 ☁ AWS Deployment
@@ -229,6 +230,7 @@ Increase workforce productivity
 📱 Mobile Responsive Dashboard
 🤖 Explainable AI (SHAP/LIME)
 📊 Real-Time Analytics
+
 # 👨‍💻 Author
 ## SELVAKUMATAN MUTHUSAMY Aspiring Data Scientist
 
