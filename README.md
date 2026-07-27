@@ -18,7 +18,7 @@ Analyze employee characteristics influencing turnover.
 Identify high-risk employees.
 Support HR in improving employee retention.
 Provide an interactive dashboard for decision-making.
-✨ Features
+## ✨ Features
 ## 🏠 HR Dashboard
 
 ✔ High-Risk Employees
@@ -161,22 +161,8 @@ Years Since Last Promotion
 Relationship Satisfaction
 Work-Life Balance
 Performance Rating
-## 📸 Application Preview
-🏠 Dashboard
+## 📸 Application Preview 🏠 Dashboard 📊 Employee Insights 🤖 Prediction Page
 
-Add Screenshot
-
-images/dashboard.png
-📊 Employee Insights
-
-Add Screenshot
-
-images/insights.png
-🤖 Prediction Page
-
-Add Screenshot
-
-images/prediction.png
 🚀 Installation
 
 Clone the repository
@@ -194,7 +180,7 @@ pip install -r requirements.txt
 Run the Streamlit application
 
 streamlit run Employee.py
-📊 Machine Learning Pipeline
+## 📊 Machine Learning Pipeline
 Raw Dataset
       │
       ▼
@@ -250,7 +236,7 @@ Increase workforce productivity
 
 ### 📧 Email: selvakumaran416@gmail.com
 
-### 💼 LinkedIn: Add your LinkedIn Profile
+### 💼 LinkedIn: https://linkedin.com/in/selvakumaran-muthusamy-376831379
 
 ⭐ Support
 
