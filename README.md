@@ -62,27 +62,27 @@ Income analysis
 Experience analysis
 HR decision support
 ## 🧠 Machine Learning Workflow
-Employee Dataset
-        │
-        ▼
-Data Cleaning
-        │
-        ▼
-Exploratory Data Analysis
-        │
-        ▼
-Feature Engineering
-        │
-        ▼
-Data Preprocessing
-        │
-        ▼
-Model Training
-        │
-        ▼
-Model Evaluation
-        │
-        ▼
+Employee Dataset  
+        │  
+        ▼  
+Data Cleaning  
+        │  
+        ▼  
+Exploratory Data Analysis  
+        │  
+        ▼  
+Feature Engineering  
+        │  
+        ▼  
+Data Preprocessing  
+        │  
+        ▼  
+Model Training  
+        │  
+        ▼  
+Model Evaluation  
+        │  
+        ▼  
 Deployment using Streamlit
 ## 🛠 Tech Stack
 Category	Technologies
@@ -94,23 +94,23 @@ Web Framework	Streamlit
 Model Storage	Pickle
 IDE	Jupyter Notebook
 ## 📂 Project Structure
-Employee-Attrition-Prediction/
-│
-├── Employee.py
-├── Employee_Attrition.ipynb
-├── best_model.pkl
-├── preprocessing.pkl
-├── cleaned_dataset.csv
-├── requirements.txt
-├── README.md
-│
-├── images/
-│      ├── dashboard.png
-│      ├── prediction.png
-│      ├── insights.png
-│
-└── dataset/
-       └── employee_attrition.csv
+Employee-Attrition-Prediction/  
+│  
+├── Employee.py  
+├── Employee_Attrition.ipynb  
+├── best_model.pkl  
+├── preprocessing.pkl  
+├── cleaned_dataset.csv  
+├── requirements.txt  
+├── README.md  
+│  
+├── images/  
+│      ├── dashboard.png  
+│      ├── prediction.png  
+│      ├── insights.png  
+│  
+└── dataset/  
+       └── employee_attrition.csv  
 ## 📊 Dashboard Features
 ### 🏠 Home Dashboard
 Employee Insights
@@ -186,24 +186,24 @@ Run the Streamlit application
 streamlit run Employee.py
 
 ## 📊 Machine Learning Pipeline
-Raw Dataset
-      │
-      ▼
-Data Cleaning
-      │
-      ▼
-Categorical Encoding
-      │
-      ▼
-Feature Scaling
-      │
-      ▼
-Model Training
-      │
-      ▼
-Prediction
-      │
-      ▼
+Raw Dataset  
+      │  
+      ▼  
+Data Cleaning  
+      │  
+      ▼  
+Categorical Encoding  
+      │  
+      ▼  
+Feature Scaling  
+      │  
+      ▼  
+Model Training  
+      │  
+      ▼  
+Prediction  
+      │  
+      ▼  
 Employee Retention Decision
 ## 📌 Skills Demonstrated
 ✅ Data Cleaning  
