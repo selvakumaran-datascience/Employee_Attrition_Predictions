@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💼 Employee Attrition Prediction using Machine Learning 🚀
+# 👨‍💼 Employee Attrition Prediction using Machine Learning 
 Predict Employee Turnover Before It Happens
 
 ### 📊 HR Analytics | 🤖 Machine Learning | 📈 Employee Retention
@@ -21,15 +21,15 @@ Provide an interactive dashboard for decision-making.
 ## ✨ Features
 ### 🏠 HR Dashboard
 
-✔ High-Risk Employees
+✔ High-Risk Employees  
 
-✔ High Job Satisfaction Employees
+✔ High Job Satisfaction Employees  
 
-✔ Work-Life Balance Insights
+✔ Work-Life Balance Insights  
 
-✔ Employee Information Tables
+✔ Employee Information Tables  
 
-✔ Interactive Dashboard
+✔ Interactive Dashboard  
 
 ### 🤖 Attrition Prediction
 
@@ -84,7 +84,7 @@ Model Evaluation
         │
         ▼
 Deployment using Streamlit
-🛠 Tech Stack
+## 🛠 Tech Stack
 Category	Technologies
 Programming	Python
 Machine Learning	Scikit-Learn
@@ -111,13 +111,13 @@ Employee-Attrition-Prediction/
 │
 └── dataset/
        └── employee_attrition.csv
-📊 Dashboard Features
-🏠 Home Dashboard
+## 📊 Dashboard Features
+### 🏠 Home Dashboard
 Employee Insights
 High-Risk Employees
 Job Satisfaction
 Work-Life Balance Analysis
-🤖 Prediction Dashboard
+### 🤖 Prediction Dashboard
 
 The prediction form collects:
 
@@ -205,17 +205,17 @@ Prediction
       │
       ▼
 Employee Retention Decision
-📌 Skills Demonstrated
-✅ Data Cleaning
-✅ Feature Engineering
-✅ Exploratory Data Analysis (EDA)
-✅ Machine Learning
-✅ Classification Models
-✅ Model Serialization using Pickle
-✅ Streamlit Application Development
-✅ Dashboard Design
-✅ HR Analytics
-📈 Business Benefits
+## 📌 Skills Demonstrated
+✅ Data Cleaning  
+✅ Feature Engineering  
+✅ Exploratory Data Analysis (EDA)  
+✅ Machine Learning  
+✅ Classification Models  
+✅ Model Serialization using Pickle  
+✅ Streamlit Application Development  
+✅ Dashboard Design  
+✅ HR Analytics  
+## 📈 Business Benefits
 
 This project helps organizations to:
 
@@ -226,14 +226,14 @@ Enhance HR decision-making
 Optimize recruitment costs
 Increase workforce productivity
 ## 🎯 Future Enhancements
-📧 Email Notifications for High-Risk Employees
-📈 Interactive Power BI Dashboard
-☁ AWS Deployment
-🔐 User Authentication
-📄 PDF Report Generation
-📱 Mobile Responsive Dashboard
-🤖 Explainable AI (SHAP/LIME)
-📊 Real-Time Analytics
+📧 Email Notifications for High-Risk Employees  
+📈 Interactive Power BI Dashboard  
+☁ AWS Deployment  
+🔐 User Authentication  
+📄 PDF Report Generation  
+📱 Mobile Responsive Dashboard  
+🤖 Explainable AI (SHAP/LIME)  
+📊 Real-Time Analytics  
 
 # 👨‍💻 Author
 ## SELVAKUMATAN MUTHUSAMY Aspiring Data Scientist
