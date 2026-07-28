@@ -105,12 +105,12 @@ Employee-Attrition-Prediction/
 ├── README.md  
 │  
 ├── images/  
-│      ├── dashboard.png  
-│      ├── prediction.png  
-│      ├── insights.png  
+│        ├── dashboard.png  
+│        ├── prediction.png  
+│        ├── insights.png  
 │  
 └── dataset/  
-       └── employee_attrition.csv  
+         └── employee_attrition.csv  
 ## 📊 Dashboard Features
 ### 🏠 Home Dashboard
 Employee Insights
